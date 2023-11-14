@@ -1,7 +1,5 @@
 # NAME: Jun-Home
 # AUTHOR: JunDemon
 # REPO: https://github.com/DemonJun/Files
-# UPDATED: 2023-10-07 14:17:41
-# DOMAIN-SUFFIX: 2
 DOMAIN-SUFFIX,demonjun.top
 IP-CIDR,10.10.10.0/24,no-resolve
