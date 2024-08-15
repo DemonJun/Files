@@ -9,7 +9,7 @@ if [ -z "$image_name" ]; then
     exit 1
 fi
 
-proxy_hosts=("dockerpull.com" "dockerproxy.cn")
+proxy_hosts=("dockerpull.com" "dockerproxy.cn" "dockerhub.icu" "dockerhub.timeweb.cloud" "do.nark.eu.org" "docker.1panel.live" "docker.registry.cyou" "docker-cf.registry.cyou" "docker.actima.top" "docker.actima.top")
 
 # 检测域名可用性的函数
 check_host() {
